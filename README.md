@@ -1,8 +1,8 @@
 # shaowen-ye
 
-我的 GitHub 仓库主要围绕生态学与环境科学研究、科研数据处理、AI 辅助科研工作流，以及 Zotero 文献管理效率工具展开。下面按主题方向整理，方便快速了解不同仓库之间的关系。
+生态学研究者，关注 AI 辅助科研工作流与科研工具开发。我的 GitHub 仓库主要围绕生态学与环境科学研究、科研数据处理、AI 辅助科研工具，以及文献管理效率工具展开。下面按主题方向整理，方便快速了解不同仓库之间的关系。
 
-My repositories mainly focus on ecology and environmental research, scientific data workflows, AI-assisted research tools, and Zotero-based reference management utilities. The list below is organized by theme and purpose.
+Ecology researcher working on AI-assisted research workflows and scientific tools. My repositories mainly focus on ecology and environmental research, scientific data workflows, AI-assisted research tools, and reference-management utilities. The list below is organized by theme and purpose.
 
 ## Repository Map / 仓库地图
 
