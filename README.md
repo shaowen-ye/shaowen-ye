@@ -1,12 +1,12 @@
 # shaowen-ye
 
-我的 GitHub 仓库主要围绕生态学与环境科学研究、科研数据处理、AI 辅助科研工作流，以及 Zotero 文献管理效率工具展开。下面按大致时间脉络和功能方向整理，方便快速了解不同仓库之间的关系。
+我的 GitHub 仓库主要围绕生态学与环境科学研究、科研数据处理、AI 辅助科研工作流，以及 Zotero 文献管理效率工具展开。下面按主题方向整理，方便快速了解不同仓库之间的关系。
 
-My repositories mainly focus on ecology and environmental research, scientific data workflows, AI-assisted research tools, and Zotero-based reference management utilities. The list below is organized by broad chronology and purpose.
+My repositories mainly focus on ecology and environmental research, scientific data workflows, AI-assisted research tools, and Zotero-based reference management utilities. The list below is organized by theme and purpose.
 
 ## Repository Map / 仓库地图
 
-### 2026-02 至 2026-03：生态数据分析与研究脚本 / Ecological Analysis and Research Scripts
+### 生态数据分析与研究脚本 / Ecological Analysis and Research Scripts
 
 这一组仓库更偏向具体研究问题、生态指标计算、群落生态分析和数据处理。
 
@@ -22,7 +22,7 @@ My repositories mainly focus on ecology and environmental research, scientific d
 - [openclaw-ysw](https://github.com/shaowen-ye/openclaw-ysw)
   OpenClaw 相关个人项目仓库。
 
-### 2026-03 至 2026-04：AI 辅助科研与 Codex/Claude Code 工具 / AI-Assisted Research and Coding Tools
+### AI 辅助科研与 Codex/Claude Code 工具 / AI-Assisted Research and Coding Tools
 
 这一阶段开始把 AI 工具用于科研阅读、图表数据提取、稿件审阅和编码工作流。
 
@@ -38,7 +38,7 @@ My repositories mainly focus on ecology and environmental research, scientific d
 - [smart-model](https://github.com/shaowen-ye/smart-model)
   Claude Code 智能模型选择工具，根据任务复杂度推荐更合适的模型档位。
 
-### 2026-03：生态研究速览 / Ecology and Conservation Digests
+### 生态研究速览 / Ecology and Conservation Digests
 
 这一组仓库用于持续整理生态学、环境科学和保护生物学领域的新论文与动态。
 
@@ -48,9 +48,9 @@ My repositories mainly focus on ecology and environmental research, scientific d
 - [eco-conservation-digest](https://github.com/shaowen-ye/eco-conservation-digest)
   生态保护动态速览，面向保护生物学和环境管理相关信息整理。
 
-### 2026-04：Zotero 插件开发 / Zotero Plugin Development
+### Zotero 插件开发 / Zotero Plugin Development
 
-Zotero 插件是较近期的一组工作，目标是提升大规模文献库中的导入去重、重复条目处理、文件夹管理、文件夹辨识和条目列表阅读效率。
+Zotero 插件用于提升大规模文献库中的导入去重、重复条目处理、文件夹管理、文件夹辨识和条目列表阅读效率。
 
 #### 文献导入与重复处理
 
