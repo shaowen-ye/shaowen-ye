@@ -6,22 +6,6 @@ My repositories mainly focus on ecology and environmental research, scientific d
 
 ## Repository Map / 仓库地图
 
-### 2020-2021：早期知识管理与 GitHub 学习 / Early Knowledge Management and GitHub Learning
-
-这一阶段主要是知识管理工具、笔记系统和 GitHub 使用学习相关的仓库。
-
-- [github-slideshow](https://github.com/shaowen-ye/github-slideshow)
-  GitHub Learning Lab 训练仓库，用于熟悉 GitHub 基础操作。
-
-- [logseq](https://github.com/shaowen-ye/logseq)
-  Logseq 相关知识管理仓库。
-
-- [logseq_R](https://github.com/shaowen-ye/logseq_R)
-  Logseq 与 R 相关的个人整理仓库。
-
-- [roam-research](https://github.com/shaowen-ye/roam-research)
-  Roam Research 相关备份或整理仓库。
-
 ### 2026-02 至 2026-03：生态数据分析与研究脚本 / Ecological Analysis and Research Scripts
 
 这一组仓库更偏向具体研究问题、生态指标计算、群落生态分析和数据处理。
