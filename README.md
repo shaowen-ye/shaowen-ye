@@ -33,6 +33,11 @@ Ecology researcher working on AI-assisted research workflows and scientific tool
 
 Zotero 插件用于提升大规模文献库中的导入去重、重复条目处理、文件夹管理、文件夹辨识和条目列表阅读效率。
 
+#### 收件箱与标签整理
+
+- [Zotero Inbox & Tag Triage Manager Plugin](https://github.com/shaowen-ye/zotero-inbox-tag-triage-manager-plugin)
+  用 Inbox 工作流整理暂时无法分类或位置不合理的文献，并支持状态标签管理、目标文件夹分配和可疑标签确认式清理。
+
 #### 文献导入与重复处理
 
 - [Zotero DOI Dedup Import Plugin](https://github.com/shaowen-ye/zotero-doi-dedup-import-plugin)
