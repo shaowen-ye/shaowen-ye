@@ -19,6 +19,9 @@ Ecology researcher working on AI-assisted research workflows and scientific tool
 - [smart-model](https://github.com/shaowen-ye/smart-model)
   Claude Code 智能模型选择工具，根据任务复杂度推荐更合适的模型档位。
 
+- [project-knowledge-pipeline](https://github.com/shaowen-ye/project-knowledge-pipeline)
+  Claude Code 项目知识沉淀 skill，用 `DECISIONS.md` 记录关键决策，并提供可选的会话绑定方案，支持长期项目的迁移、归档与跨机器延续。
+
 ### 生态研究速览 / Ecology and Conservation Digests
 
 这一组仓库用于持续整理生态学、环境科学和保护生物学领域的新论文与动态。
