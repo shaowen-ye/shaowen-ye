@@ -22,8 +22,8 @@ Ecology researcher working on AI-assisted research workflows and scientific tool
 - [project-knowledge-pipeline](https://github.com/shaowen-ye/project-knowledge-pipeline)
   Claude Code 项目知识沉淀 skill，用 `DECISIONS.md` 记录关键决策，并提供可选的会话绑定方案，支持长期项目的迁移、归档与跨机器延续。
 
-- [gemini-deep-research-local-app](https://github.com/shaowen-ye/gemini-deep-research-local-app)
-  Gemini Deep Research 智能体的本地 Web GUI：可协作规划、执行多步联网研究并生成附引文报告；同时兼容 Anthropic Claude 与 OpenAI/DeepSeek/OpenRouter。
+- [deep-research-assistant](https://github.com/shaowen-ye/deep-research-assistant)
+  深度研究助手 / Deep Research Assistant：多模型深度研究的本地 Python Web GUI，Gemini Deep Research / Anthropic Claude / OpenAI / DeepSeek / OpenRouter 共用面板，支持协作规划、执行多步联网研究、生成附引文报告（Markdown + PDF + ZIP）；内置自然语言报告编辑器（多轮 find/replace + 版本回滚）与一键引用规范化。
 
 ### 生态研究速览 / Ecology and Conservation Digests
 
