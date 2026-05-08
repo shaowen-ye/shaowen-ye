@@ -8,7 +8,7 @@ Ecology researcher working on AI-assisted research workflows and scientific tool
 
 ### AI 辅助科研与 Codex/Claude Code 工具 / AI-Assisted Research and Coding Tools
 
-这一组仓库把 AI 工具用于科研阅读、图表数据提取、稿件审阅和编码工作流。
+这一组仓库把 AI 工具用于科研阅读、图表数据提取、稿件审阅、编码工作流和多 provider 联网研究。
 
 - [manuscript-review-skill](https://github.com/shaowen-ye/manuscript-review-skill)
   Claude Code 技能：模拟多位专家进行学术稿件审阅，生成中英双语彩色批注文档、评分矩阵和修改优先级。
@@ -22,12 +22,8 @@ Ecology researcher working on AI-assisted research workflows and scientific tool
 - [project-knowledge-pipeline](https://github.com/shaowen-ye/project-knowledge-pipeline)
   Claude Code 项目知识沉淀 skill，用 `DECISIONS.md` 记录关键决策，并提供可选的会话绑定方案，支持长期项目的迁移、归档与跨机器延续。
 
-### 本地研究 App / Local Research Apps
-
-这一组仓库提供本地运行、本地归档的科研工具，所有 API key、任务状态与产物都保留在本机。
-
 - [gemini-deep-research-local-app](https://github.com/shaowen-ye/gemini-deep-research-local-app)
-  本地 Python Web GUI，把 Gemini Deep Research、Anthropic Claude（原生 `web_search`）以及 OpenAI / DeepSeek / OpenRouter（通过 Tavily 检索）统一到一个三栏 agentic 研究面板；每个任务自动归档为 Markdown / PDF / ZIP，含报告、图表、原始 API 返回与过程日志，并提供 Gemini 协作规划模式与「规范引用」一键整理工具。后端纯 Python 标准库，前端零构建，监听 `127.0.0.1`。
+  本地 Web GUI：在同一面板上调用 Gemini Deep Research、Anthropic Claude 与 OpenAI/DeepSeek/OpenRouter 完成联网研究，任务自动归档为 Markdown / PDF / ZIP。
 
 ### 生态研究速览 / Ecology and Conservation Digests
 
