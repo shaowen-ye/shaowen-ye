@@ -25,6 +25,9 @@ Ecology researcher working on AI-assisted research workflows and scientific tool
 - [deep-research-assistant](https://github.com/shaowen-ye/deep-research-assistant)
   深度研究助手 / Deep Research Assistant：多模型深度研究的本地 Python Web GUI，Gemini Deep Research / Anthropic Claude / OpenAI / DeepSeek / OpenRouter 共用面板，支持协作规划、执行多步联网研究、生成附引文报告（Markdown + PDF + ZIP）；内置自然语言报告编辑器（多轮 find/replace + 版本回滚）与一键引用规范化。
 
+- [deep-research-prompt-builder](https://github.com/shaowen-ye/deep-research-prompt-builder)
+  Claude Code 技能：为 ChatGPT Deep Research、Gemini Deep Research 等深度调研代理构建**自包含**提示词集。把一个模糊的调研主题拆分成 5–10 个聚焦的、可直接复制粘贴的 DR 提示词，覆盖科研、政策、行业三大领域模板。 / A Claude Code skill that builds self-contained prompt sets for ChatGPT Deep Research, Gemini Deep Research, and similar agents.
+
 ### 生态研究速览 / Ecology and Conservation Digests
 
 这一组仓库用于持续整理生态学、环境科学和保护生物学领域的新论文与动态。
