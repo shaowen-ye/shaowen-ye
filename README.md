@@ -4,7 +4,7 @@
 
 Ecology researcher working on AI-assisted research workflows and scientific tools. My repositories mainly focus on ecology and environmental research, scientific data workflows, AI-assisted research tools, and reference-management utilities. The list below is organized by theme and purpose.
 
-## Repository Map / 仓库地图
+## 仓库地图 / Repository Map
 
 ### AI 辅助科研与 Codex/Claude Code 工具 / AI-Assisted Research and Coding Tools
 
