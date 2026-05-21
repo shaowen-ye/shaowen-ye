@@ -39,8 +39,7 @@ Ecology researcher working on AI-assisted research workflows, deep-research tool
   Claude Code Skill：为 ChatGPT Deep Research、Gemini Deep Research 等深度调研代理构建**自包含**提示词集。支持科研、政策、行业三大领域模板，并在 v1.1.0 起可选生成候选图像 brief 与多系列视觉提示词附录，帮助 DR 系列报告衔接后续插图规划。
 
 - [dr-report-to-bibliography](https://github.com/shaowen-ye/dr-report-to-bibliography)
-  Claude Code Skill：从 ChatGPT Deep Research、Gemini Deep Research 等报告或研究文档中提取参考文献，生成 RIS 导入文件、CSV 审阅表和问题清单；支持 CrossRef / 网页元数据补全、中文编码保护、中文机构作者规范处理和可选 Zotero 本地 API dry-run 推送。  
-  Claude Code Skill: extracts and normalizes references from Deep Research reports or research documents, producing RIS imports, CSV review tables, and needs-attention reports with CrossRef / webpage metadata enrichment, Chinese encoding safeguards, institutional-author handling, and optional Zotero local API dry-run push.
+  Claude Code Skill：从 ChatGPT Deep Research、Gemini Deep Research 等报告或研究文档中提取参考文献，生成 RIS 导入文件、CSV 审阅表和问题清单；支持 CrossRef / 网页元数据补全、中文编码保护、中文机构作者规范处理和可选 Zotero 本地 API dry-run 推送。
 
 - [image-prompt-builder](https://github.com/shaowen-ye/image-prompt-builder)
   Claude Code Skill：为 ChatGPT / OpenAI Images、Gemini / Nano Banana 等图像生成工具构建可复制提示词。支持科学插图、信息图、概念视觉、流程图和多系列 Markdown 图像提示词集，并对真实数据图、真实地图、真实网络拓扑和精确数值图进行红线重定向。
