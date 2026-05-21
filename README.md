@@ -7,11 +7,11 @@ Ecology researcher working on AI-assisted research workflows, deep-research tool
 ## 近期重点 / Current Focus
 
 - **Deep Research 工作流**：构建从 DR 提示词设计、联网调研、报告归档、引用规范化到视觉提示词规划的工具链。
-- **Claude Code / Codex skills**：把高频科研任务沉淀成可复用 skill，例如稿件审阅、图表数据提取、项目知识沉淀和 DR prompt builder。
+- **Claude Code / Codex skills**：把高频科研任务沉淀成可复用 skill，例如稿件审阅、图表数据提取、项目知识沉淀、DR prompt builder 和图像提示词构建。
 - **Zotero 文献库效率工具**：围绕导入去重、重复条目合并、文件夹结构管理、位置查看和阅读布局优化，开发一组保守、安全、可撤回的 Zotero 插件。
 
 - **Deep Research workflows**: building a toolchain from DR prompt design and web research to report archiving, citation normalization, and visual prompt planning.
-- **Claude Code / Codex skills**: turning recurring research tasks into reusable skills, including manuscript review, figure data extraction, project knowledge capture, and DR prompt building.
+- **Claude Code / Codex skills**: turning recurring research tasks into reusable skills, including manuscript review, figure data extraction, project knowledge capture, DR prompt building, and image-prompt construction.
 - **Zotero productivity tools**: developing conservative, reversible Zotero plugins for import deduplication, duplicate merging, collection management, location lookup, and reading-layout optimization.
 
 ## 仓库地图 / Repository Map
@@ -37,6 +37,9 @@ Ecology researcher working on AI-assisted research workflows, deep-research tool
 
 - [deep-research-prompt-builder](https://github.com/shaowen-ye/deep-research-prompt-builder)
   Claude Code Skill：为 ChatGPT Deep Research、Gemini Deep Research 等深度调研代理构建**自包含**提示词集。支持科研、政策、行业三大领域模板，并在 v1.1.0 起可选生成候选图像 brief 与多系列视觉提示词附录，帮助 DR 系列报告衔接后续插图规划。
+
+- [image-prompt-builder](https://github.com/shaowen-ye/image-prompt-builder)
+  Claude Code Skill：为 ChatGPT / OpenAI Images、Gemini / Nano Banana 等图像生成工具构建可复制提示词。支持科学插图、信息图、概念视觉、流程图和多系列 Markdown 图像提示词集，并对真实数据图、真实地图、真实网络拓扑和精确数值图进行红线重定向。
 
 ### 生态研究速览 / Ecology and Conservation Digests
 
