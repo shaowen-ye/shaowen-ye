@@ -1,8 +1,18 @@
 # shaowen-ye
 
-生态学研究者，关注 AI 辅助科研工作流与科研工具开发。我的 GitHub 仓库主要围绕生态学与环境科学研究、科研数据处理、AI 辅助科研工具，以及文献管理效率工具展开。下面按主题方向整理，方便快速了解不同仓库之间的关系。
+生态学研究者，关注 AI 辅助科研工作流、深度调研工具、科研数据处理与文献管理效率工具。我的 GitHub 仓库主要围绕生态学与环境科学研究、Deep Research 工作流、Claude Code / Codex skills、Zotero 插件，以及可复用的科研工具展开。下面按主题方向整理，方便快速了解不同仓库之间的关系。
 
-Ecology researcher working on AI-assisted research workflows and scientific tools. My repositories mainly focus on ecology and environmental research, scientific data workflows, AI-assisted research tools, and reference-management utilities. The list below is organized by theme and purpose.
+Ecology researcher working on AI-assisted research workflows, deep-research tooling, scientific data workflows, and reference-management utilities. My repositories mainly focus on ecology and environmental research, Deep Research workflows, Claude Code / Codex skills, Zotero plugins, and reusable tools for research work. The list below is organized by theme and purpose.
+
+## 近期重点 / Current Focus
+
+- **Deep Research 工作流**：构建从 DR 提示词设计、联网调研、报告归档、引用规范化到视觉提示词规划的工具链。
+- **Claude Code / Codex skills**：把高频科研任务沉淀成可复用 skill，例如稿件审阅、图表数据提取、项目知识沉淀和 DR prompt builder。
+- **Zotero 文献库效率工具**：围绕导入去重、重复条目合并、文件夹结构管理、位置查看和阅读布局优化，开发一组保守、安全、可撤回的 Zotero 插件。
+
+- **Deep Research workflows**: building a toolchain from DR prompt design and web research to report archiving, citation normalization, and visual prompt planning.
+- **Claude Code / Codex skills**: turning recurring research tasks into reusable skills, including manuscript review, figure data extraction, project knowledge capture, and DR prompt building.
+- **Zotero productivity tools**: developing conservative, reversible Zotero plugins for import deduplication, duplicate merging, collection management, location lookup, and reading-layout optimization.
 
 ## 仓库地图 / Repository Map
 
@@ -26,7 +36,7 @@ Ecology researcher working on AI-assisted research workflows and scientific tool
   深度研究助手 / Deep Research Assistant：多模型深度研究的本地 Python Web GUI，Gemini Deep Research / Anthropic Claude / OpenAI / DeepSeek / OpenRouter 共用面板，支持协作规划、执行多步联网研究、生成附引文报告（Markdown + PDF + ZIP）；内置自然语言报告编辑器（多轮 find/replace + 版本回滚）与一键引用规范化。
 
 - [deep-research-prompt-builder](https://github.com/shaowen-ye/deep-research-prompt-builder)
-  Claude Code Skill：为 ChatGPT Deep Research、Gemini Deep Research 等深度调研代理构建**自包含**提示词集。把一个模糊的调研主题拆分成 5–10 个聚焦的、可直接复制粘贴的 DR 提示词，覆盖科研、政策、行业三大领域模板。
+  Claude Code Skill：为 ChatGPT Deep Research、Gemini Deep Research 等深度调研代理构建**自包含**提示词集。支持科研、政策、行业三大领域模板，并在 v1.1.0 起可选生成候选图像 brief 与多系列视觉提示词附录，帮助 DR 系列报告衔接后续插图规划。
 
 ### 生态研究速览 / Ecology and Conservation Digests
 
